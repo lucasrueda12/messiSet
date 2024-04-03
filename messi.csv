@@ -1,4 +1,4 @@
-   Tournament, Matchday  ,  Date  ,Venue__,Club,_Opponent_,  Result_,Position,__Minute,When.Scored,Goal Type   , Assist,col1,col2,days,month,year,avg,max
+   Tournament, Matchday  ,  Date  ,Venue__,Club,_Opponent_,  Result(n:n)_,Position,__Minute,When.Scored,Goal Type   , Assist,col1,col2,days,month,year,avg,max
 LaLiga ,34,5/1/05,Home,FC Barcelona,Albacete Balompié,2:0,CF,90'+1,2:0,Left-footed shot,Ronaldinho Gaúcho
 Champions League ,Group Stage,11/2/05,Home,FC Barcelona,Panathinaikos Athens,5:0,RW,34',3:0,Left-footed shot,Not Applicable
 LaLiga ,13,11/27/05,Home,FC Barcelona,Racing Santander,4:1,RW,51',2:0,Left-footed shot,Samuel Eto'o
